@@ -1,0 +1,31 @@
+body{
+  font-family: sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.row {
+  margin-bottom: 5px;
+}
+
+.box {
+  display: inline-block;
+  width: 50px;
+  margin: 0;
+  padding: 40px;
+  border: 1px dashed black;
+  text-align: center;
+  cursor: pointer;
+}
+
+.winner {
+  font-size: 27px;
+  font-weight: bold;
+  color: red;
+}
+
+.hide {
+  display: none;
+}
